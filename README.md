@@ -13,7 +13,7 @@ This project focuses on detecting brain tumors from MRI scans using **Convolutio
 ## 📂 How to Get Started
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/YOUR-USERNAME/Brain-Tumor-Detection-CNN.git
+git clone https://github.com/lokesh8n8/Brain-Tumor-Detection-XAI.git
 cd Brain-Tumor-Detection-CNN
 ```
 
